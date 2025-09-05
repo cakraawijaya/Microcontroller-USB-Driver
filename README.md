@@ -3,4 +3,4 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Microcontroller-USB-Driver?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Driver-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Microcontroller-USB-Driver
+# Microcontroller USB Driver
